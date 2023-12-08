@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net7.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/f98c49b2-acad-4f60-8b72-d3cef0f5a65b/resourceGroups/AromasdeVerão/providers/Microsoft.Web/sites/AromasdeVerão"
+}

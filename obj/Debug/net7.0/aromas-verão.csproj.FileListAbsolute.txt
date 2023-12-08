@@ -1,0 +1,7 @@
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\Curso DEV\Segundo semestre\aromas-verão\bin\Debug\net7.0\aromas-verão.exe
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\Curso DEV\Segundo semestre\aromas-verão\bin\Debug\net7.0\aromas-verão.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\Curso DEV\Segundo semestre\aromas-verão\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\Curso DEV\Segundo semestre\aromas-verão\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\Curso DEV\Segundo semestre\aromas-verão\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\Curso DEV\Segundo semestre\aromas-verão\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\Curso DEV\Segundo semestre\aromas-verão\bin\Debug\net7.0\X.PagedList.dll

@@ -1,0 +1,75 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - aromas_verão</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/aromas_verão.styles.css" asp-append-version="true" />
+</head>
+
+<body>
+    <header class="no-print">
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light border-bottom box-shadow mb-3">
+            <div class="container-fluid">
+                <a class="navbar-brand corzin" asp-area="" asp-controller="Home" asp-action="Index">AROMAS DE VERÃO</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse"
+                    aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex">
+                    <li class="nav-item">
+                        <a class="nav-link text-dark ii" asp-area="Admin" asp-controller="Categoria"
+                            asp-action="Index">Categorias</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link text-dark ii" asp-area="Admin" asp-controller="Produtos"
+                            asp-action="Create">Cadastro</a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link text-dark ii" asp-area="Admin" asp-controller="Usuario"
+                            asp-action="Index">Usuários</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link text-dark ii" asp-area="Admin" asp-controller="Banner"
+                            asp-action="ListaBanners">Banner</a>
+                    </li>
+                </div>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-end">
+                    <li class="nav-item">
+                        <a class="nav-link text-dark ii" asp-area="Admin" asp-controller="Produtos"
+                            asp-action="">Produtos</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link text-dark ii" asp-area="Admin" asp-controller="Usuario" asp-action="Sair">Sair</a>
+                    </li>
+                    <div class="input-group" style="width:300px">
+                        <input type="search" class="form-control">
+                        <button type="submit" class="btn btn-outline-light bg">Buscar</button>
+                    </div>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2023 - AROMAS DE VERÃO - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+
+</html>

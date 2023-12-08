@@ -1,0 +1,35 @@
+@model IEnumerable<App.Models.Categoria>
+
+@{
+    ViewData["Title"] = "Categorias de venda";
+}
+
+<h1 class="eliza">CATEGORIAS DE VENDA</h1>
+
+<p>
+    <a asp-action="Create" class="text-dark">Inserir nova categoria</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Nome)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nome)
+            </td>
+            <td>
+                <a class="btn bia" asp-action="Edit" asp-route-id="@item.IdCategoria">Edit</a> |
+                <a class="btn bia" asp-action="Details" asp-route-id="@item.IdCategoria">Details</a> |
+                <a class="btn bia" asp-action="Delete" asp-route-id="@item.IdCategoria">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,573 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\obj\\Release\\net7.0\\scopedcss\\projectbundle\\aromas-verão.bundle.scp.css",
+      "PackagePath": "staticwebassets\\aromas-verão.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\Dados\\Dados.db",
+      "PackagePath": "staticwebassets\\Dados\\Dados.db"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\fonte\\LEMONMILK-Regular.otf",
+      "PackagePath": "staticwebassets\\fonte\\LEMONMILK-Regular.otf"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\fonte\\mariana.ttf",
+      "PackagePath": "staticwebassets\\fonte\\mariana.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\fotos\\5f9e136e-97d0-4eba-af7e-61e8cece69e0capa3.png",
+      "PackagePath": "staticwebassets\\fotos\\5f9e136e-97d0-4eba-af7e-61e8cece69e0capa3.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\fotos\\66225e6b-edb7-421f-8107-689f6cd42c3acapa4.png",
+      "PackagePath": "staticwebassets\\fotos\\66225e6b-edb7-421f-8107-689f6cd42c3acapa4.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\fotos\\6e53a58e-cd7e-435a-bb1e-ffcff10db09ecap02.png",
+      "PackagePath": "staticwebassets\\fotos\\6e53a58e-cd7e-435a-bb1e-ffcff10db09ecap02.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\fotos\\b746b4f3-51b3-4506-a71b-101978299f65cap01.png",
+      "PackagePath": "staticwebassets\\fotos\\b746b4f3-51b3-4506-a71b-101978299f65cap01.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\img\\00264eb1-dd13-465a-bbd5-ec1ee8ee6ae3gotas.png",
+      "PackagePath": "staticwebassets\\img\\00264eb1-dd13-465a-bbd5-ec1ee8ee6ae3gotas.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\img\\11013b44-bfbb-42a2-9ef5-466610ce3d5dm e m.png",
+      "PackagePath": "staticwebassets\\img\\11013b44-bfbb-42a2-9ef5-466610ce3d5dm e m.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\img\\25e6c955-2cd4-4b4c-a6cc-22eecd0f2fc1simp.png",
+      "PackagePath": "staticwebassets\\img\\25e6c955-2cd4-4b4c-a6cc-22eecd0f2fc1simp.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\img\\27c53da0-135d-435d-a44a-f7bb96adb5f9famosos[.png",
+      "PackagePath": "staticwebassets\\img\\27c53da0-135d-435d-a44a-f7bb96adb5f9famosos[.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\img\\3cf62e39-356f-4960-a895-5e3b9a3011a4oi.png",
+      "PackagePath": "staticwebassets\\img\\3cf62e39-356f-4960-a895-5e3b9a3011a4oi.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\img\\50e441d9-da7d-4b31-8e96-e19b352e475doreo.png",
+      "PackagePath": "staticwebassets\\img\\50e441d9-da7d-4b31-8e96-e19b352e475doreo.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\img\\5670de78-28dc-45fb-8f1d-41971c8068e2loveapple.png",
+      "PackagePath": "staticwebassets\\img\\5670de78-28dc-45fb-8f1d-41971c8068e2loveapple.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\img\\91dd8857-9039-4536-8d83-786f7a5fcdf8banana.png",
+      "PackagePath": "staticwebassets\\img\\91dd8857-9039-4536-8d83-786f7a5fcdf8banana.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\img\\9dd4276a-82e7-4bd3-aa88-25083ee3d5038.png",
+      "PackagePath": "staticwebassets\\img\\9dd4276a-82e7-4bd3-aa88-25083ee3d5038.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\img\\Bolo01.png",
+      "PackagePath": "staticwebassets\\img\\Bolo01.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\img\\Bolo02.png",
+      "PackagePath": "staticwebassets\\img\\Bolo02.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\img\\Bolo03.png",
+      "PackagePath": "staticwebassets\\img\\Bolo03.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\img\\Cook01.png",
+      "PackagePath": "staticwebassets\\img\\Cook01.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\img\\Cook02.jpg",
+      "PackagePath": "staticwebassets\\img\\Cook02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\img\\Maca01.png",
+      "PackagePath": "staticwebassets\\img\\Maca01.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\img\\Maca02.png",
+      "PackagePath": "staticwebassets\\img\\Maca02.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\img\\Tort1.png",
+      "PackagePath": "staticwebassets\\img\\Tort1.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\img\\a65f2909-51e7-4d11-b611-2ea0d060f778almond.png",
+      "PackagePath": "staticwebassets\\img\\a65f2909-51e7-4d11-b611-2ea0d060f778almond.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\img\\bb8448ba-06ac-4203-821e-3a63eb17b754rubi.png",
+      "PackagePath": "staticwebassets\\img\\bb8448ba-06ac-4203-821e-3a63eb17b754rubi.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\img\\bejo.png",
+      "PackagePath": "staticwebassets\\img\\bejo.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\img\\bomb.png",
+      "PackagePath": "staticwebassets\\img\\bomb.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\img\\burberry.png",
+      "PackagePath": "staticwebassets\\img\\burberry.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\img\\c8d9ba7b-daf9-466e-8bbd-5faab5e2cd2fferrero.png",
+      "PackagePath": "staticwebassets\\img\\c8d9ba7b-daf9-466e-8bbd-5faab5e2cd2fferrero.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\img\\cacaudoéden.png",
+      "PackagePath": "staticwebassets\\img\\cacaudoéden.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\img\\campodemorango.png",
+      "PackagePath": "staticwebassets\\img\\campodemorango.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\img\\cap01.png",
+      "PackagePath": "staticwebassets\\img\\cap01.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\img\\cap02.png",
+      "PackagePath": "staticwebassets\\img\\cap02.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\img\\capa3.png",
+      "PackagePath": "staticwebassets\\img\\capa3.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\img\\capa4.png",
+      "PackagePath": "staticwebassets\\img\\capa4.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\img\\capabis.png",
+      "PackagePath": "staticwebassets\\img\\capabis.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\img\\capabolo.png",
+      "PackagePath": "staticwebassets\\img\\capabolo.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\img\\capator.png",
+      "PackagePath": "staticwebassets\\img\\capator.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\img\\capatru.png",
+      "PackagePath": "staticwebassets\\img\\capatru.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\img\\categBo.png",
+      "PackagePath": "staticwebassets\\img\\categBo.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\img\\categMa.png",
+      "PackagePath": "staticwebassets\\img\\categMa.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\img\\categTo.png",
+      "PackagePath": "staticwebassets\\img\\categTo.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\img\\categTr.png",
+      "PackagePath": "staticwebassets\\img\\categTr.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\img\\cde3cfde-d777-4d12-94f5-6370bf2b3bfb8.png",
+      "PackagePath": "staticwebassets\\img\\cde3cfde-d777-4d12-94f5-6370bf2b3bfb8.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\img\\cerejacintilante.png",
+      "PackagePath": "staticwebassets\\img\\cerejacintilante.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\img\\cherrybomb.png",
+      "PackagePath": "staticwebassets\\img\\cherrybomb.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\img\\coffee & cream.png",
+      "PackagePath": "staticwebassets\\img\\coffee & cream.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\img\\dalpistache.png",
+      "PackagePath": "staticwebassets\\img\\dalpistache.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\img\\dionísio.png",
+      "PackagePath": "staticwebassets\\img\\dionísio.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\img\\doceamor.png",
+      "PackagePath": "staticwebassets\\img\\doceamor.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\img\\docesnasalturas.png",
+      "PackagePath": "staticwebassets\\img\\docesnasalturas.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\img\\dé.png",
+      "PackagePath": "staticwebassets\\img\\dé.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\img\\e41d49c4-1704-494c-a814-c83219df10098.png",
+      "PackagePath": "staticwebassets\\img\\e41d49c4-1704-494c-a814-c83219df10098.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\img\\estalosdecacau.png",
+      "PackagePath": "staticwebassets\\img\\estalosdecacau.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\img\\estreladameia-noite.png",
+      "PackagePath": "staticwebassets\\img\\estreladameia-noite.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\img\\f0ae25a1-8e26-4a7e-986d-fdf762888592br.png",
+      "PackagePath": "staticwebassets\\img\\f0ae25a1-8e26-4a7e-986d-fdf762888592br.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\img\\fafb4319-d04e-487b-931b-c0e3a6f2ae80bolol.png",
+      "PackagePath": "staticwebassets\\img\\fafb4319-d04e-487b-931b-c0e3a6f2ae80bolol.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\img\\fazendnha.png",
+      "PackagePath": "staticwebassets\\img\\fazendnha.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\img\\framb.png",
+      "PackagePath": "staticwebassets\\img\\framb.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\img\\lemon.png",
+      "PackagePath": "staticwebassets\\img\\lemon.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\img\\llogo.png",
+      "PackagePath": "staticwebassets\\img\\llogo.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\img\\loginn.png",
+      "PackagePath": "staticwebassets\\img\\loginn.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\img\\loguinho.png",
+      "PackagePath": "staticwebassets\\img\\loguinho.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\img\\morangosublime.png",
+      "PackagePath": "staticwebassets\\img\\morangosublime.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\img\\nemo.png",
+      "PackagePath": "staticwebassets\\img\\nemo.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\img\\nuvemgelada.png",
+      "PackagePath": "staticwebassets\\img\\nuvemgelada.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\img\\out.png",
+      "PackagePath": "staticwebassets\\img\\out.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\img\\paixaotropical.png",
+      "PackagePath": "staticwebassets\\img\\paixaotropical.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\img\\pinkskies.png",
+      "PackagePath": "staticwebassets\\img\\pinkskies.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\img\\poço.png",
+      "PackagePath": "staticwebassets\\img\\poço.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\img\\pétala.png",
+      "PackagePath": "staticwebassets\\img\\pétala.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\img\\red.png",
+      "PackagePath": "staticwebassets\\img\\red.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\img\\teddy.png",
+      "PackagePath": "staticwebassets\\img\\teddy.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\img\\tirodocupido.png",
+      "PackagePath": "staticwebassets\\img\\tirodocupido.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\img\\veludovermelho.png",
+      "PackagePath": "staticwebassets\\img\\veludovermelho.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\img\\willywonka.png",
+      "PackagePath": "staticwebassets\\img\\willywonka.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\Curso DEV\\Segundo semestre\\aromas-verão\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.aromas-verão.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.build.aromas-verão.props",
+      "PackagePath": "build\\aromas-verão.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.aromas-verão.props",
+      "PackagePath": "buildMultiTargeting\\aromas-verão.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildTransitive.aromas-verão.props",
+      "PackagePath": "buildTransitive\\aromas-verão.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

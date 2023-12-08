@@ -1,0 +1,78 @@
+﻿@model App.Models.ProdutoBannerViewModel
+
+
+@{
+    ViewData["Title"] = "Aromas de Verão";
+}
+@Html.Partial("../ParcialView/BannerCarrossel", Model.ListaBanners)
+
+<div class="amare"></div>
+
+<div class="text-center">
+    <h1 class="texto marina" style="font-size:3rem">Categorias</h1>
+</div>
+
+<section class="row m-5">
+    <div class="col-12 col-md-6 col-lg-4 col-xl-3 mb-3 ">
+        <a asp-controller="Bolo" asp-action="Index" class="d-flex align-items-center justify-content-center"><span
+                class="position-absolute julieta">Bolos</span><img src="~/img/categBo.png" class="card-img-top"> </a>
+    </div>
+    <div class="col-12 col-md-6 col-lg-4 col-xl-3 mb-3 ">
+        <a asp-controller="Cookie" asp-action="Index" class="d-flex align-items-center justify-content-center"><span
+                class="position-absolute julieta">Trufas</span><img src="~/img/categTr.png" class="card-img-top"></a>
+    </div>
+    <div class="col-12 col-md-6 col-lg-4 col-xl-3 mb-3 ">
+        <a asp-controller="Macarons" asp-action="Index" class="d-flex align-items-center justify-content-center"><span
+                class="position-absolute julieta">Biscoitos</span><img src="~/img/categMa.png" class="card-img-top"></a>
+    </div>
+    <div class="col-12 col-md-6 col-lg-4 col-xl-3 mb-3 ">
+        <a asp-controller="Tortas" asp-action="Index" class="d-flex align-items-center justify-content-center"><span
+                class="position-absolute julieta">Tortas</span><img src="~/img/categTo.png" class="card-img-top"></a>
+    </div>
+    </div>
+</section>
+
+<div class="text-center">
+    <h1 class="texto marina" style="font-size: 3rem">Mais Vendidos</h1>
+</div>
+
+
+<main>
+
+    <section class="row m-5">
+        @foreach (var item in Model.ListaProdutos)
+        {
+            <div class="col-12 col-lg-3 mb-3">
+                <div class="card ">
+                    <img class="card-img-top " src="~/img/@Html.DisplayFor(modelItem => item.Foto)"
+                        alt="Imagem de capa do card">
+                    <div class="card-body text-center">
+                        <h5 class="card-title">@Html.DisplayFor(modelItem => item.Nome)</h5>
+                        <p class="card-text">@Html.DisplayFor(modelItem => item.Descricao)</p>
+                        <a href="#" class="btn btn-dark bianca" data-bs-toggle="modal" data-bs-target="#_@item.IdProduto">Mais informações</a>
+                    </div>
+                </div>
+            </div>
+            <div class="modal fade" id="_@item.IdProduto">
+                <div class="modal-dialog modal-dialog-centered">
+                    <div class="modal-content louise">
+                        <div class="modal-header">
+                            <h5 class="thay">@Html.DisplayFor(modelItem => item.Nome)</h5>
+                            <button class="btn-close" data-bs-dismiss="modal"></button>
+                        </div>
+                        <div class="modal-body">
+                            <img class="img-fluid maristela" src="~/img/@Html.DisplayFor(modelItem => item.Foto)">
+                            <p class="mirelli">@Html.DisplayFor(modelItem => item.Descricao)</p>
+                            <h1 class="michelly"> R$ @Html.DisplayFor(modelItem => item.Valor)</h1>
+                        </div>
+                        <div class="modal-footer">
+                            <button class="btn btn-dark bianca" data-bs-dismiss="modal">Adicionar ao carrinho</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        }
+
+    </section>
+</main>

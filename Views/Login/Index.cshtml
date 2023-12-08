@@ -1,0 +1,39 @@
+@model App.Models.Usuario
+@{
+    ViewData["Title"] = "Login";
+}
+
+<hr />
+
+<div class="container col-12 col-lg-7 amélia">
+    <form asp-action="Index">
+        <div class="row">
+            <div class="col-lg-5 d-none d-lg-block">
+                <img src="~/img/loginn.png" alt="">
+            </div>
+            <div class="col-lg-7 col-11 anelli">
+                <h1 class="elisa">Login</h1>
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="form-group">
+                    <label asp-for="Login" class="control-label manuela">Usuário</label>
+                    <input asp-for="Login" class="form-control" />
+                    <span asp-validation-for="Login" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Senha" class="control-label manuela">Senha</label>
+                    <input type="password" asp-for="Senha" class="form-control" />
+                    <span asp-validation-for="Senha" class="text-danger"></span>
+                </div>
+                <div class="form-group mt-3">
+                    <input type="submit" value="Entrar" class="btn btn-dark lola" />
+                </div>
+            </div>
+        </div>
+
+        @if (!string.IsNullOrEmpty(ViewBag.ErrorMessage))
+        {
+            <p class="text-danger">@ViewBag.ErrorMessage</p>
+        }
+
+    </form>
+</div>

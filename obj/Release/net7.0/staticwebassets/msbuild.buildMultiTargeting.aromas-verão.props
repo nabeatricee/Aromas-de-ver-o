@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\aromas-verão.props" />
+</Project>

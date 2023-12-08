@@ -1,0 +1,227 @@
+@font-face {
+  font-family: "mariana";
+  src: url(../fonte/mariana.ttf);
+}
+
+@font-face {
+  font-family: "LEMON MILK";
+  src: url(../fonte/LEMONMILK-Regular.otf);
+}
+
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus,
+.btn:active:focus,
+.btn-link.nav-link:focus,
+.form-control:focus,
+.form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+  background-color: #FF818E;
+}
+
+.corzin {
+  color: #FFD54D !important;
+  font-family: 'mariana';
+  font-size: 35px;
+}
+
+.loli {
+  color: #FFD2D6 !important;
+  font-family: 'mariana';
+  font-size: 45px;
+}
+
+.marina {
+  color: #FFD2D6 !important;
+  font-family: 'mariana';
+  text-shadow: 1px 2px 5px #0000008b;
+}
+
+nav {
+  background-color: #F52549 !important;
+}
+
+.bg {
+  background-color: #FFD54D;
+  color: #B20012 !important;
+  font-family: 'LEMON MILK';
+  font-size: 14px;
+}
+
+.bianca {
+  color: #FFD2D6 !important;
+  font-family: 'LEMON MILK';
+  font-size: 14px;
+}
+
+.bia {
+  color: #000000 !important;
+  font-family: 'LEMON MILK';
+  font-size: 14px;
+}
+
+.lola {
+  color: #FFFFFF !important;
+  font-family: 'LEMON MILK';
+  font-size: 14px;
+}
+
+.manuela {
+  color: #FFFFFF !important;
+  font-family: 'LEMON MILK';
+  font-size: 20px;
+}
+
+.elisa {
+  color: #FFFFFF !important;
+  font-family: 'LEMON MILK';
+  font-size: 40px;
+  text-decoration: underline;
+}
+
+.ii {
+  font-family: 'LEMON MILK';
+  font-size: 15px;
+}
+
+.julieta {
+  font-family: 'LEMON MILK';
+  font-size: 43px;
+  color: #FFD2D6 !important;
+}
+
+h1 {
+  font-family: 'LEMON MILK';
+  font-size: 15px;
+}
+
+li {
+  list-style: none;
+}
+
+.amarelo {
+  background-color: #FFB400;
+  height: 55px;
+}
+
+.amare {
+  background-color: #FFB400;
+  height: 35px;
+}
+
+.gabriela {
+  background-color: #F52549;
+  height: 35px;
+}
+
+.debora {
+  background-color: #ffffff;
+}
+.maristela{
+  width: 100%;
+}
+
+.amélia {
+  background-color: #ffb300f2;
+}
+.louise{
+  background-color: #FFD2D6;;
+  justify-content: center;
+  align-items: center;
+}
+.thay{
+  font-family: 'mariana';
+  font-size: 23px;
+  color: #0000008b;
+  text-align: center;
+}
+.mirelli{
+  font-size: 16px;
+  text-align: center;
+}
+.michelly{
+  font-family: 'LEMON MILK';
+  font-size: 16px;
+  text-align: center;
+}
+.texto {
+  position: relative;
+  display: inline-block;
+  color: #FFD2D6;
+  font-size: 1rem;
+  margin: 8px;
+  margin-left: 50px;
+}
+
+.texto::before,
+.texto::after {
+  content: "";
+  position: absolute;
+  top: 0.65em;
+  width: 3em;
+  height: 0.08em;
+  background-color: #FFD2D6;
+  left: -3.25em;
+}
+
+.texto::after {
+  left: initial;
+  right: -3.25em;
+}
+
+.anelli {
+  margin-top: 60px;
+}
+
+.odete {
+  height: 173px;
+  width: 254px;
+}
+
+.only-print {
+  display: none;
+}
+
+@media print {
+  .only-print {
+    display: block;
+  }
+
+  .no-print {
+    display: none !important;
+  }
+
+  .container {
+    max-width: 100%;
+  }
+
+  body {
+    background: none;
+  }
+}
+
+.card-text {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  /* Número de linhas desejado */
+  -webkit-box-orient: vertical;
+}
